@@ -1,0 +1,20 @@
+#buttonContainer{
+    display: flex;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+    gap: .5rem;
+    justify-content: center;
+    width: 230px;
+}
+
+.button{
+    padding: 5px 15px;
+    background-color: beige;
+    border: none;
+    border: 1px solid black;
+    width: 25%;
+}
+
+.change{
+    background-color: orange !important;
+}
